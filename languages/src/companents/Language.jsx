@@ -1,6 +1,4 @@
-import { Container } from "react-bootstrap/Container";
-
-const Language = () => {
+const Language = ({ name, img, options }) => {
   return <div>Language</div>;
 };
 
