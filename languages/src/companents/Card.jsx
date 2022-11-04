@@ -1,6 +1,5 @@
 import Language from "./Language";
-import Container from "react-bootstrap/esm/Container";
-import Rox from "react-bootstrap/Row";
+import Container from "react-bootstrap/Container";
 import Col from "react-bootstrap/Col";
 import { data } from "../helpers/data";
 import Row from "react-bootstrap/Row";
